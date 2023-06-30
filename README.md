@@ -1,3 +1,3 @@
 # Bankist Website
 
-Bankist website used for practicing Advanced DOM and Events
+Bankist website for the bank to market their services
